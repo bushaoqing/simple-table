@@ -36,7 +36,7 @@ const tableOption = reactive({
       id: '3333',
       name: '王五',
       age: '26',
-      hobby: '打篮球'
+      hobby: '打羽毛球'
     },
     {
       id: '2222',
